@@ -1,0 +1,33 @@
+.form {
+    margin: 0 auto;
+    width: 50%;
+}
+.row {
+    text-align: center;
+}
+
+label {
+    margin-bottom: 3px;
+}
+
+input {
+    margin-bottom: 5px;
+}
+
+.btn {
+    margin-top: 10px;
+    background-color: #A68868;
+    color: black;
+    border: none;
+    width: 120px;
+}
+
+.btn:hover {
+    background-color: #868787;
+    color: black;
+}
+
+.text-danger {
+    color: red;
+    font-size: 13px;
+}

@@ -1,0 +1,17 @@
+a {
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+}
+
+i:hover {
+    color: #868787;
+}
+
+i {
+    color: black;
+}
+
+.button {
+    background-color: red;
+}
