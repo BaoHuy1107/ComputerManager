@@ -65,6 +65,7 @@ public class CustomerController {
             return "updateCustomer";
         }
         this.customerService.saveCustomer(customer);
+        System.out.println("ccccccc");
         return "redirect:/select/customer";  // chuyển hướng qua url /select/customer
     }
 }
